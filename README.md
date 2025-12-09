@@ -7,4 +7,5 @@ Adicionando a planilha de LER do projeto estacionamento
 
 
 
-[estacionamento.drawio](https://github.com/user-attachments/files/24062394/estacionamento.drawio)
+<img width="669" height="620" alt="image" src="https://github.com/user-attachments/assets/e688256f-6a99-400e-9138-08b7e84bd3fe" />
+
