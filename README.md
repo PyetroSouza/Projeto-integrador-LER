@@ -6,3 +6,5 @@ Adicionando a planilha de LER do projeto estacionamento
 
 
 
+
+[estacionamento.drawio](https://github.com/user-attachments/files/24062394/estacionamento.drawio)
