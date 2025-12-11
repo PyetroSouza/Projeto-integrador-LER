@@ -1,6 +1,6 @@
 ﻿# Projeto-integrador-LER
 
-Adicionando a planilha de LER do projeto estacionamento
+# Adicionando a planilha de LER do projeto estacionamento
 - [Planilha](https://docs.google.com/spreadsheets/d/1BVApUMaWUQPNNASIZNDYJ5TvKVKc6ieHBqPiTH9WILM/edit?usp=sharing)
 
 # Adicionando o figma dos protótipos
@@ -12,6 +12,7 @@ Adicionando a planilha de LER do projeto estacionamento
 
 ## Caso de Uso
 <img width="669" height="620" alt="image" src="https://github.com/user-attachments/assets/e688256f-6a99-400e-9138-08b7e84bd3fe" />
+
 
 
 
